@@ -1,3 +1,5 @@
+require 'money'
+
 require 'savon'
 
 class Money
@@ -5,7 +7,7 @@ class Money
     class MNB < Money::Bank::VariableExchange
       WSDL_URL = 'http://www.mnb.hu/arfolyamok.asmx?WSDL'
 
-      VERSION = File.read(File.expand_path('../../../', File.dirname(__FILE__)))
+      VERSION = File.read(File.expand_path('../../../VERSION', File.dirname(__FILE__)))
 
       attr_reader :rates
 
