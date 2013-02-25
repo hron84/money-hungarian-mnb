@@ -1,0 +1,40 @@
+<MNBCurrentExchangeRates>
+  <Day date="2013-02-25">
+    <Rate curr="AUD" unit="1">228,76</Rate>
+    <Rate curr="BGN" unit="1">150,41</Rate>
+    <Rate curr="BRL" unit="1">112,56</Rate>
+    <Rate curr="CAD" unit="1">217,06</Rate>
+    <Rate curr="CHF" unit="1">239,68</Rate>
+    <Rate curr="CNY" unit="1">35,65</Rate>
+    <Rate curr="CZK" unit="1">11,52</Rate>
+    <Rate curr="DKK" unit="1">39,44</Rate>
+    <Rate curr="EUR" unit="1">294,17</Rate>
+    <Rate curr="GBP" unit="1">336,5</Rate>
+    <Rate curr="HKD" unit="1">28,65</Rate>
+    <Rate curr="HRK" unit="1">38,77</Rate>
+    <Rate curr="IDR" unit="100">2,29</Rate>
+    <Rate curr="ILS" unit="1">59,76</Rate>
+    <Rate curr="INR" unit="1">4,12</Rate>
+    <Rate curr="ISK" unit="1">1,76</Rate>
+    <Rate curr="JPY" unit="100">236,72</Rate>
+    <Rate curr="KRW" unit="100">20,47</Rate>
+    <Rate curr="LTL" unit="1">85,23</Rate>
+    <Rate curr="LVL" unit="1">420,41</Rate>
+    <Rate curr="MXN" unit="1">17,49</Rate>
+    <Rate curr="MYR" unit="1">71,71</Rate>
+    <Rate curr="NOK" unit="1">39,47</Rate>
+    <Rate curr="NZD" unit="1">186,38</Rate>
+    <Rate curr="PHP" unit="1">5,46</Rate>
+    <Rate curr="PLN" unit="1">70,76</Rate>
+    <Rate curr="RON" unit="1">67,12</Rate>
+    <Rate curr="RSD" unit="1">2,64</Rate>
+    <Rate curr="RUB" unit="1">7,32</Rate>
+    <Rate curr="SEK" unit="1">34,82</Rate>
+    <Rate curr="SGD" unit="1">179,52</Rate>
+    <Rate curr="THB" unit="1">7,45</Rate>
+    <Rate curr="TRY" unit="1">123,46</Rate>
+    <Rate curr="UAH" unit="1">27,3</Rate>
+    <Rate curr="USD" unit="1">222,23</Rate>
+    <Rate curr="ZAR" unit="1">25,08</Rate>
+  </Day>
+</MNBCurrentExchangeRates>
