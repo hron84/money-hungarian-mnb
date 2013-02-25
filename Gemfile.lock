@@ -52,6 +52,7 @@ PLATFORMS
 DEPENDENCIES
   jeweler (~> 1.8.4)
   money
+  rake
   rdoc (> 3.12)
   rspec
   rspec-mocks
