@@ -1,5 +1,7 @@
 # money-hungarian-mnb
 
+[![Build Status](https://travis-ci.org/hron84/money-hungarian-mnb.png?branch=master)](https://travis-ci.org/hron84/money-hungarian-mnb)
+
 This gem is provides integration for [money gem](https://github.com/RubyMoney/money) with [Hungarian National Bank](http://english.mnb.hu/) (Magyar Nemzeti Bank).
 
 This library is uses the SOAP web service provided by the bank and supports all currencies what is supported by the bank plus Hungarian Forint. To see the full list
