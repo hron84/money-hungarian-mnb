@@ -1,0 +1,7 @@
+2013-02-25  Gabor Garami <hron@hron.me>
+
+	* First release
+
+
+
+# vim: ft=changelog
