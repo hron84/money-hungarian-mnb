@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "money-hungarian-mnb"
   gem.homepage = "http://github.com/hron84/money-hungarian-mnb"
   gem.license = "MIT"
-  gem.summary = %Q{Hungarian MNB Bank for Money gem}
+  gem.summary = %Q{Hungarian National Bank integration for Money gem}
   gem.description = %Q{The gem provides integration for Money gem with webservice provided by Hungarian National Bank}
   gem.email = "hron@hron.me"
   gem.authors = ["Gabor Garami"]
