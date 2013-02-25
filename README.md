@@ -1,6 +1,6 @@
 # money-hungarian-mnb
 
-[![Build Status](https://travis-ci.org/hron84/money-hungarian-mnb.png?branch=master)](https://travis-ci.org/hron84/money-hungarian-mnb)
+[![Build Status](https://travis-ci.org/hron84/money-hungarian-mnb.png?branch=master)](https://travis-ci.org/hron84/money-hungarian-mnb) [![Code Climate](https://codeclimate.com/github/hron84/money-hungarian-mnb.png)](https://codeclimate.com/github/hron84/money-hungarian-mnb)
 
 This gem is provides integration for [money gem](https://github.com/RubyMoney/money) with [Hungarian National Bank](http://english.mnb.hu/) (Magyar Nemzeti Bank).
 
